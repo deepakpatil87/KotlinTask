@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Task</string>
+    <string name="product_list">Product List</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="ok">Ok</string>
+    <string name="alert">Alert</string>
+
+</resources>
